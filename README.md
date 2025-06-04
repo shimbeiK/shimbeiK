@@ -1,5 +1,5 @@
 # Thank you for visiting!
-私のスキル・技術については[こちらのポートフォリオ](https://shimbeik.github.io/portfolio_2025/)をご参照いただけると幸いです。<br>
+私のスキル・技術については[こちらのポートフォリオ](https://shimbeik.github.io/portfolio_2025/)をご参照いただけると幸いです。<br><br>
 📫leach my portfolio : https://shimbeik.github.io/portfolio_2025/<br>
 ⚡interesting in : quadruped robots, Electronic devices, develop apps, etc...<br>
 <br>
