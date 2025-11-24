@@ -6,5 +6,3 @@
 The university I am attending : Osaka Metropolitan University<br>
                                 Faculty of Engineering<br>
                                 Department of Electrical and Electronic Systems Engineering<br>
-
-![entire](https://github.com/user-attachments/assets/975244e7-4d94-4f1f-ab81-c3d88fcc7147)
